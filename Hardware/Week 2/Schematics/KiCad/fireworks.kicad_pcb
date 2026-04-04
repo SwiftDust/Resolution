@@ -21429,17 +21429,6 @@
 		(layer "F.SilkS")
 		(uuid "ed760862-6123-4b29-b9db-489cf776f86b")
 	)
-	(gr_rect
-		(start 95 56)
-		(end 195 156)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "cfbd179b-c95f-46da-a22b-6df068a89584")
-	)
 	(gr_circle
 		(center 145.371143 106)
 		(end 109.932277 70.561134)
